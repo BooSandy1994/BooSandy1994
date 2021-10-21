@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning.
 - 🌱 I’m currently learning Deep Learning and Statistics.
 - 💞️ I’m looking to collaborate on NLP.
-- 📫 How to reach me ... sandipan.majhi.email@gmail.com
+- 📫 How to reach me ... sandipan.majhi.email@gmail.com or sandipan.majhi@ieee.org
 
 <!---
 BooSandy1994/BooSandy1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
